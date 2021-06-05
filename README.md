@@ -1,6 +1,6 @@
 ### Hi there, I'm Lac! 👋
 
-Recently coding in Singapore 🤓
+Now coding in Singapore 🤓
 
 <a href="https://github.com/laclys">
   <img
